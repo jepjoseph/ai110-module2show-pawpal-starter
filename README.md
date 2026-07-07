@@ -117,14 +117,6 @@ Describe your app in numbered steps so a reader can follow along without watchin
 
 #**Screenshot or video** *(optional)*: <!-- Insert a screenshot or link to a demo video here -->
 
-![Pet Care Scheduler Demo](assets/Demo.gif)
-
-<img src="./assets/Demo.gif" width="700" alt="Pet Care Scheduler Demo">
-
-<p align="center">
-  <img src="./assets/Demo.gif" width="700" alt="Pet Care Scheduler Demo">
-</p>
-
 <p align="center">
   <img src="assets/Demo.gif" width="800" alt="Demo">
 </p>
