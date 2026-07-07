@@ -115,7 +115,16 @@ Describe your app in numbered steps so a reader can follow along without watchin
 4. Review the timeline to see how PawPal+ orders tasks based on priority and available time.
 5. <!-- Add more steps as needed -->
 
-**Screenshot or video** *(optional)*: <!-- Insert a screenshot or link to a demo video here -->
+#**Screenshot or video** *(optional)*: <!-- Insert a screenshot or link to a demo video here -->
+
+![Pet Care Scheduler Demo](assets/demo.gif)
+
+<img src="./assets/demo.gif" width="700" alt="Pet Care Scheduler Demo">
+
 <p align="center">
-  <img src="assets/demo.gif" width="700" alt="Pet Care Scheduler Demo">
+  <img src="./assets/demo.gif" width="700" alt="Pet Care Scheduler Demo">
+</p>
+
+<p align="center">
+  <img src="assets/demo.gif" width="800" alt="Demo">
 </p>
